@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Vedantvd18
-- 👀 I’m interested in sports, technology, business
+- 👋 Hi, I’m Vedant,
+- 👀 I’m interested in technology,sports,business
 - 🌱 I’m currently learning artificial intelligence
-- 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me 
 
 <!---
 Vedantvd18/Vedantvd18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
